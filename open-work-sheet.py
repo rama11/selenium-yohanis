@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-import pickle
 import time
 
 driver = webdriver.Firefox()
@@ -28,4 +27,6 @@ menu_elem.click()
 time.sleep(3)
 assert "Work Activity - Tech Support" in driver.title
 print("Success Open Work Sheet")
+
+
 driver.quit()
