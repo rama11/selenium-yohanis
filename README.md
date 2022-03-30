@@ -5,9 +5,9 @@ Made for testing project automation at dev-yohanis.sifoma.id
 ## Requirement
 
 It's been tried and can be sure it runs on
-	- Python 3.10.0
-	- Selenium 4.0.0
-	- geckodriver 0.30.0
+- Python 3.10.0
+- Selenium 4.0.0
+- geckodriver 0.30.0
 
 ## Usage
 Run 5 scripts that are already available
